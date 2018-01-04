@@ -1,0 +1,22 @@
+h1, .uk-h1 {
+    font-size: 38px;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+.tm-container-background-light {
+  background: #f9f9f9;
+}
+
+.tm-list-item-link{
+  margin-right:10px;
+}
+
+.tm-list-item-done,
+.tm-list-item-done a{
+  text-decoration: line-through !important;
+}
+
+.tm-grid-form-title {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,4 @@
+.tm-navbar-container:not(.uk-navbar-transparent) {
+    background: linear-gradient(to left, #28a5f5, #1e87f0);
+    color: rgba(255,255,255,0.8);
+}
